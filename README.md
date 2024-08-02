@@ -1,4 +1,4 @@
-### RATIONALIST ADJACENT DISCORD SERVER REPOSITORY
+### RATIONALIST ADJACENT DISCORD SERVER REPOSITORY (This is mostly a dump, you can create a pull request to make this better) 
 1. **Near-Term Effective Altruism Discord**
    - Original link: https://ea.greaterwrong.com/posts/zf7PNhcXsKk4n3RCi/near-term-effective-altruism-discord
    - Discord links: https://discord.com/invite/gVgfgSX, https://discord.com/invite/EpG4xUVKtf, https://discord.com/invite/TuhU2BcY5a, https://discord.gg/rfPYGCV
